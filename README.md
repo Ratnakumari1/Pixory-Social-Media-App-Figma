@@ -107,4 +107,4 @@ The design is inspired by existing social media platforms, but all screens and f
 
 ## 🔗 Figma Design Link
 
-(https://www.figma.com/proto/2tg0lF6WUtMhzk9V4cOrFO/Untitled?node-id=401-7623&t=pIa769rfu078ACFh-1)
+(https://www.figma.com/design/2tg0lF6WUtMhzk9V4cOrFO/Untitled?node-id=488-6692&t=ixjovvFZ1DPG5Der-1)
